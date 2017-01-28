@@ -105,7 +105,6 @@ buildscript {
     }
     dependencies {
         classpath 'com.github.ben-manes:gradle-versions-plugin:0.13.0'
-        classpath 'org.greenrobot:greendao-gradle-plugin:3.2.1'
     }
 }
 
